@@ -14,4 +14,4 @@ for t in range(testCases):
 
     diff = formatT2 - formatT1
 
-    print (int(abs(diff.total_seconds())))
+    print (int(abs(diff.total_seconds())))  
