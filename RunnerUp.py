@@ -6,4 +6,3 @@ test = int(input())
 l = [int(_) for _ in input().split()]
 print (max(l))
 
-
